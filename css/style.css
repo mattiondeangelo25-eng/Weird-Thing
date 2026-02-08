@@ -33,6 +33,7 @@ body{
 
 .italic{
     font-weight: bolder;
+    font-size: 80px;
 }
 
 #footer ol {
