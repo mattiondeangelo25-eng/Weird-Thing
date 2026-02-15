@@ -1,5 +1,5 @@
 header {
-  background-color: cyan;
+  background-color: darkblue;
   text-align: center;
 }
 h3 {
@@ -48,4 +48,10 @@ body{
     display: flex;
     gap: 20px;
     flex:1;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
 }
